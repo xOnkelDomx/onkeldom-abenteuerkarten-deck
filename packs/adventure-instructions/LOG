@@ -1,0 +1,15 @@
+2024/07/08-23:50:31.532454 7fe547ff8640 Recovering log #3
+2024/07/08-23:50:31.532508 7fe547ff8640 Level-0 table #5: started
+2024/07/08-23:50:31.534405 7fe547ff8640 Level-0 table #5: 4239 bytes OK
+2024/07/08-23:50:31.538840 7fe547ff8640 Delete type=0 #3
+2024/07/08-23:50:31.538892 7fe547ff8640 Delete type=3 #2
+2024/07/08-23:50:31.539320 7fe546fff640 Level-0 table #8: started
+2024/07/08-23:50:31.539341 7fe546fff640 Level-0 table #8: 0 bytes OK
+2024/07/08-23:50:31.541789 7fe546fff640 Delete type=0 #6
+2024/07/08-23:50:31.541876 7fe546fff640 Manual compaction at level-0 from '!' @ 72057594037927935 : 1 .. '~' @ 0 : 0; will stop at '!journal.pages!swadeadv00instru.07changelog00000' @ 2 : 1
+2024/07/08-23:50:31.541884 7fe546fff640 Compacting 1@0 + 0@1 files
+2024/07/08-23:50:31.543812 7fe546fff640 Generated table #9@0: 3 keys, 4239 bytes
+2024/07/08-23:50:31.543823 7fe546fff640 Compacted 1@0 + 0@1 files => 4239 bytes
+2024/07/08-23:50:31.545246 7fe546fff640 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/07/08-23:50:31.545316 7fe546fff640 Delete type=2 #5
+2024/07/08-23:50:31.545495 7fe546fff640 Manual compaction at level-0 from '!journal.pages!swadeadv00instru.07changelog00000' @ 2 : 1 .. '~' @ 0 : 0; will stop at (end)

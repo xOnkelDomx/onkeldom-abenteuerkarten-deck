@@ -1,0 +1,47 @@
+{
+  "id": "dsa5-abenteuer-deck",
+  "title": "DSA 5 Abenteuerkarten Deck",
+  "description": "<p><strong>Das Abenteuerkarten-Deck</strong> verleiht den Spielern erzählerische Kontrolle und bringt zusätzliche Spannung ins Spiel. Wendungen wie überraschende Begegnungen, alte Feinde oder dramatische Erfolge sorgen für ein lebendiges Spielerlebnis im DSA5-Universum.</p>",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Dein Name oder Gruppe"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.325"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dsa5"
+      }
+    ]
+  },
+  "media": [
+    {
+      "type": "cover",
+      "url": "modules/dsa5-abenteuer-deck/assets/cover.webp"
+    },
+    {
+      "type": "icon",
+      "url": "modules/dsa5-abenteuer-deck/assets/logo.webp"
+    }
+  ],
+  "esmodules": [
+    "./index.js"
+  ],
+  "styles": [
+    "./style.css"
+  ],
+  "packs": [
+    {
+      "name": "adventure-deck",
+      "label": "Abenteuerkarten Deck",
+      "type": "Cards",
+      "system": "dsa5",
+      "path": "packs/adventure-deck"
+    }
+  ]
+}

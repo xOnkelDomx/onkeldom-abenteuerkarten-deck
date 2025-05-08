@@ -1,0 +1,29 @@
+{
+  "ACG": {
+    "HAND_SHEET": "Abenteuerhand",
+    "HANDS_CREATED_SUCCESS": "Es wurden {amount} Abenteuerhände erstellt.",
+    "HANDS_CREATED_FAIL_NO_USERS": "Du musst erst Spieler*innen anlegen.",
+    "PLAY": "Spielen",
+    "GIVE": "Geben",
+    "RECEIVED": "erhält",
+    "GIVE_DIALOG": {
+      "TITLE": "Karte weiterreichen",
+      "CANCEL": "Karte behalten"
+    },
+    "SETTINGS": {
+      "HAND_NAMES_LABEL": "Hand Benennung",
+      "HAND_NAMES_HINT": "Formel nach der vom Macro erstellte Hände benannt werden. [NAME] wird durch den Namen der Person ersetzt.",
+      "HAND_NAMES_DEFAULT": "[NAME]'s Abenteuerhand",
+      "DUMP_PILE_LABEL": "Ablagestapel",
+      "DUMP_PILE_HINT": "Name des Stapels auf den gespielte Abenteuerkarten abgelegt werden sollen.",
+      "DUMP_PILE_DEFAULT": "Abenteuer-Ablagestapel",
+      "TOGGLE_SOUND_LABEL": "Audiosignal aktivieren",
+      "TOGGLE_SOUND_HINT": "Wenn diese Option aktiviert ist, wird beim spielen einer Abenteuerkarte ein Signal abgespielt.",
+      "PLAY_SOUND_LABEL": "Audiodatei",
+      "PLAY_SOUND_HINT": "Welche Audiodatei abgespielt werden soll wenn jemand eine Abenteuerkarte spielt.",
+      "PLAY_SOUND_DEFAULT": "systems/swade/assets/card-flip.wav",
+      "ANNOUNCE_CARDS_LABEL": "[Deutsch]Announce Cards",
+      "ANNOUNCE_CARDS_HINT": "[Deutsch]Announce cards players receive to chat."
+    }
+  }
+}

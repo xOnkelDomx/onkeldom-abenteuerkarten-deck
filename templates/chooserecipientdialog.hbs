@@ -1,0 +1,17 @@
+<div class='acg-give-grid'>
+  <img src='{{card.faces.0.img}}' />
+  <div class='flexcol recipient-button-col'>
+    {{#with senderId as |sameId|}}
+      {{#each (getGroupHands sameId)}}
+        {{#unless (eq id sameId)}}
+          <a class='give button' data-recipient-id='{{id}}'><i class='fas fa-share-square'></i>
+            {{name}}</a>
+        {{/unless}}
+      {{/each}}
+    {{/with}}
+  </div>
+  <a class='cancel button'><i class='fas fa-ban'></i>
+    {{localize 'ACG.GIVE_DIALOG.CANCEL'}}</a>
+  <a class='discard button' data-recipient-id='discard'><i class='fas fa-trash'></i>
+    {{localize 'ACG.GIVE_DIALOG.DISCARD'}}</a>
+</div>
