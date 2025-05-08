@@ -1,5 +1,0 @@
-2024/07/08-23:50:31.455100 7fe5497fb640 Delete type=3 #1
-2024/07/08-23:50:31.464725 7fe546fff640 Level-0 table #5: started
-2024/07/08-23:50:31.466707 7fe546fff640 Level-0 table #5: 934 bytes OK
-2024/07/08-23:50:31.468375 7fe546fff640 Delete type=0 #3
-2024/07/08-23:50:31.472909 7fe546fff640 Manual compaction at level-0 from '!' @ 72057594037927935 : 1 .. '~' @ 0 : 0; will stop at (end)

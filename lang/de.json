@@ -1,29 +1,30 @@
-{
+{{
   "ACG": {
     "HAND_SHEET": "Abenteuerhand",
     "HANDS_CREATED_SUCCESS": "Es wurden {amount} Abenteuerhände erstellt.",
     "HANDS_CREATED_FAIL_NO_USERS": "Du musst erst Spieler*innen anlegen.",
-    "PLAY": "Spielen",
-    "GIVE": "Geben",
-    "RECEIVED": "erhält",
+    "PLAY": "Ausspielen",
+    "GIVE": "Weitergeben",
+    "RECEIVED": "hat erhalten",
     "GIVE_DIALOG": {
       "TITLE": "Karte weiterreichen",
-      "CANCEL": "Karte behalten"
+      "CANCEL": "Karte behalten",
+      "DISCARD": "Abwerfen"
     },
     "SETTINGS": {
-      "HAND_NAMES_LABEL": "Hand Benennung",
-      "HAND_NAMES_HINT": "Formel nach der vom Macro erstellte Hände benannt werden. [NAME] wird durch den Namen der Person ersetzt.",
+      "HAND_NAMES_LABEL": "Benennung der Hände",
+      "HAND_NAMES_HINT": "Formel für automatisch erzeugte Händenamen. [NAME] wird durch den Spielernamen ersetzt.",
       "HAND_NAMES_DEFAULT": "[NAME]'s Abenteuerhand",
       "DUMP_PILE_LABEL": "Ablagestapel",
-      "DUMP_PILE_HINT": "Name des Stapels auf den gespielte Abenteuerkarten abgelegt werden sollen.",
+      "DUMP_PILE_HINT": "Name des Stapels für ausgespielte Karten.",
       "DUMP_PILE_DEFAULT": "Abenteuer-Ablagestapel",
-      "TOGGLE_SOUND_LABEL": "Audiosignal aktivieren",
-      "TOGGLE_SOUND_HINT": "Wenn diese Option aktiviert ist, wird beim spielen einer Abenteuerkarte ein Signal abgespielt.",
-      "PLAY_SOUND_LABEL": "Audiodatei",
-      "PLAY_SOUND_HINT": "Welche Audiodatei abgespielt werden soll wenn jemand eine Abenteuerkarte spielt.",
-      "PLAY_SOUND_DEFAULT": "systems/swade/assets/card-flip.wav",
-      "ANNOUNCE_CARDS_LABEL": "[Deutsch]Announce Cards",
-      "ANNOUNCE_CARDS_HINT": "[Deutsch]Announce cards players receive to chat."
+      "TOGGLE_SOUND_LABEL": "Sound beim Ausspielen",
+      "TOGGLE_SOUND_HINT": "Spielt einen Ton, wenn eine Karte ausgespielt wird.",
+      "PLAY_SOUND_LABEL": "Sounddatei",
+      "PLAY_SOUND_HINT": "Pfad zur Sounddatei.",
+      "PLAY_SOUND_DEFAULT": "modules/dsa5-abenteuer-deck/assets/card-flip.wav",
+      "ANNOUNCE_CARDS_LABEL": "Kartenansage im Chat",
+      "ANNOUNCE_CARDS_HINT": "Zeigt im Chat an, welche Karten verteilt wurden."
     }
   }
 }

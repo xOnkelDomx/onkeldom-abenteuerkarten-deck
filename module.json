@@ -37,11 +37,11 @@
   ],
   "packs": [
     {
-      "name": "adventure-deck",
+      "name": "abenteuerkarten",
       "label": "Abenteuerkarten Deck",
       "type": "Cards",
       "system": "dsa5",
-      "path": "packs/adventure-deck"
+      "path": "packs/abenteuerkarten-deck/abenteuerkarten.db"
     }
   ]
 }
