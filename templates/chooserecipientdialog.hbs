@@ -1,0 +1,9 @@
+<form>
+  <div class="acg-give-grid">
+    {{#each hands}}
+      <button type="button" class="button recipient-button" data-hand-id="{{this.id}}">
+        {{this.name}}
+      </button>
+    {{/each}}
+  </div>
+</form>

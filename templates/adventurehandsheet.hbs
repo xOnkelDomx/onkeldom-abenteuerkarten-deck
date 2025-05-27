@@ -1,0 +1,16 @@
+<div class="adventure-hand-row">
+  {{#each cards}}
+    <div class="card" data-card-uuid="{{uuid}}">
+      <img class="hand-card-face" src="{{faces.[0].img}}" alt="{{name}}" data-card-uuid="{{uuid}}">
+
+      <div class="card-details" data-card-uuid="{{uuid}}">
+        <div class="header">{{name}}</div>
+      </div>
+
+      <div class="card-action-bar">
+        <a class="play-card" data-card-uuid="{{uuid}}">Ausspielen</a>
+        <a class="give-card" data-card-uuid="{{uuid}}">Geben</a>
+      </div>
+    </div>
+  {{/each}}
+</div>
