@@ -52,14 +52,16 @@ https://raw.githubusercontent.com/OnkelDom/onkeldom-abenteuerkarten-deck/main/mo
 ## 🎨 Eigene Karten erstellen
 
 - Im Ordner `assets/cards` befinden sich **alle Kartenvorlagen**, inkl. Rückseite.
-- Du kannst diese Vorlagen mit Grafikprogrammen wie **GIMP**, **Photoshop** oder **Photopea** bearbeiten und eigene Karten gestalten.
+- Du kannst das Template `Abenteuerkarten_Template.xcf` im Ordner `assets` verwenden, um eigene Karten zu erstellen.
+- Nutze dazu Grafikprogramme wie **GIMP**, **Photoshop** oder **Photopea**.
 - Neue Karten müssen anschließend in der Datei `abenteuerkarten.json` eingetragen werden:
   - `name` – Name der Karte
   - `img` – Pfad zum Kartenvorderbild
   - `back.img` – Pfad zur Rückseite
   - Optional: `text` und `description` für Effekte oder Chatanzeige
 
-⚠️ **Hinweis:** Beim Hinzufügen eigener Karten musst du sicherstellen, dass die JSON-Struktur korrekt bleibt.
+⚠️ **Hinweis:** Beim Hinzufügen eigener Karten musst du sicherstellen, dass die JSON-Struktur korrekt bleibt und die Dateiendungen alle korrekt sind!
+
 
 ---
 
