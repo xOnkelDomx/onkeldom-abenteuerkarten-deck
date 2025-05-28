@@ -1,7 +1,7 @@
 {
-  "id": "dsa5-abenteuer-deck",
-  "title": "DSA5 Abenteuerkarten Deck",
-  "description": "<p><strong>Das Abenteuerkarten-Deck</strong> verleiht den Spielern erzählerische Kontrolle und bringt zusätzliche Spannung ins Spiel. Wendungen wie überraschende Begegnungen, alte Feinde oder dramatische Erfolge sorgen für ein lebendiges Spielerlebnis im DSA5-Universum.</p>",
+  "id": "onkeldom-abenteuerkarten-deck",
+  "title": "OnkelDom's Abenteuerkarten Deck",
+  "description": "<p><strong>OnkelDom's Abenteuerkarten Deck</strong> verleiht den Spielern erzählerische Kontrolle und bringt zusätzliche Spannung ins Spiel. Wendungen wie überraschende Begegnungen, alte Feinde oder dramatische Erfolge sorgen für ein lebendiges Spielerlebnis.</p>",
   "version": "1.0.0",
   "authors": [
     {
@@ -14,21 +14,14 @@
     "minimum": "12",
     "verified": "12.325"
   },
-  "relationships": {
-    "systems": [
-      {
-        "id": "dsa5"
-      }
-    ]
-  },
   "media": [
     {
       "type": "cover",
-      "url": "modules/dsa5-abenteuer-deck/assets/cover.png"
+      "url": "modules/onkeldom-abenteuerkarten-deck/assets/cover.png"
     },
     {
       "type": "icon",
-      "url": "modules/dsa5-abenteuer-deck/assets/logo.png"
+      "url": "modules/onkeldom-abenteuerkarten-deck/assets/logo.png"
     }
   ],
   "esmodules": [
@@ -37,7 +30,7 @@
   "styles": [
     "./style.css"
   ],
-  "manifest": "https://raw.githubusercontent.com/OnkelDom/dsa5-abenteuer-deck/main/module.json",
-  "download": "https://github.com/OnkelDom/dsa5-abenteuer-deck/releases/download/v1.0.0/module.zip",
-  "url": "https://github.com/OnkelDom/dsa5-abenteuer-deck"
+  "manifest": "https://raw.githubusercontent.com/OnkelDom/onkeldom-abenteuerkarten-deck/main/module.json",
+  "download": "https://github.com/OnkelDom/onkeldom-abenteuerkarten-deck/releases/download/v1.0.0/module.zip",
+  "url": "https://github.com/OnkelDom/onkeldom-abenteuerkarten-deck"
 }

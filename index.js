@@ -2,7 +2,7 @@ class AbenteuerkartenHandSheet extends CardsHand {
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
       classes: ["acg-hand"],
-      template: "modules/dsa5-abenteuer-deck/templates/adventurehandsheet.hbs",
+      template: "modules/onkeldom-abenteuerkarten-deck/templates/adventurehandsheet.hbs",
       width: 500,
       height: 600,
       resizable: true,
@@ -19,7 +19,7 @@ class AbenteuerkartenHandSheet extends CardsHand {
     html.find(".play-card").on("click", this._onPlayCard.bind(this));
     html.find(".give-card").on("click", this._onGiveCard.bind(this));
     html.find(".card-details").on("click", this._onPopImage.bind(this));
-    html.find(".hand-card-face").on("click", this._onPopImage.bind(this)); // Bild klickbar
+    html.find(".hand-card-face").on("click", this._onPopImage.bind(this));
 
     html.find(".card").on("contextmenu", async ev => {
       ev.preventDefault();
@@ -47,7 +47,7 @@ class AbenteuerkartenHandSheet extends CardsHand {
     const card = await fromUuid(uuid);
     const img = card.faces?.[0]?.img || card.img;
 
-    const html = await renderTemplate("modules/dsa5-abenteuer-deck/templates/adventurecard-chatcard.hbs", {
+    const html = await renderTemplate("modules/onkeldom-abenteuerkarten-deck/templates/adventurecard-chatcard.hbs", {
       name: card.name,
       img: img
     });
@@ -89,13 +89,12 @@ class AbenteuerkartenHandSheet extends CardsHand {
   }
 }
 
-// Global verfügbar machen
 window.Abenteuerkarten = window.Abenteuerkarten || {};
 Abenteuerkarten.AbenteuerkartenHandSheet = AbenteuerkartenHandSheet;
 
 class GiveCardDialog extends Dialog {
   static async create(card, hands) {
-    const html = await renderTemplate("modules/dsa5-abenteuer-deck/templates/chooserecipientdialog.hbs", { hands });
+    const html = await renderTemplate("modules/onkeldom-abenteuerkarten-deck/templates/chooserecipientdialog.hbs", { hands });
 
     return new Promise(resolve => {
       const dlg = new this({
@@ -123,7 +122,6 @@ class GiveCardDialog extends Dialog {
     });
   }
 }
-
 
 Hooks.once("init", () => {
   game.settings.register("Abenteuerkarten", "discardPileName", {
@@ -153,14 +151,14 @@ Hooks.once("ready", async () => {
       name: pileName,
       type: "pile",
       description: "Ablagestapel für gespielte Abenteuerkarten",
-      img: "modules/dsa5-abenteuer-deck/assets/logo.png"
+      img: "modules/onkeldom-abenteuerkarten-deck/assets/ablage.png"
     });
     ui.notifications.info(`Ablagestapel "${pileName}" wurde automatisch erstellt.`);
   }
 
   const existingDeck = game.cards.getName("Abenteuerkarten");
   if (!existingDeck) {
-    const filePath = "modules/dsa5-abenteuer-deck/abenteuerkarten.json";
+    const filePath = "modules/onkeldom-abenteuerkarten-deck/abenteuerkarten.json";
     try {
       const response = await fetch(filePath);
       const json = await response.json();
@@ -196,7 +194,7 @@ Hooks.once("ready", async () => {
         }
       });
 
-      console.log(`? Kartenhand für ${handName} erstellt.`);
+      console.log(`?? Kartenhand für ${handName} erstellt.`);
     }
   }
 });
@@ -205,7 +203,7 @@ Hooks.on("renderChatMessage", (message, html, data) => {
   html.find(".chat-card-popout").on("click", ev => {
     const img = ev.currentTarget.dataset.cardImg;
     if (!img) {
-      console.warn("? Kein Bildpfad im Element");
+      console.warn("?? Kein Bildpfad im Element");
       ui.notifications.warn("Bild der Karte konnte nicht angezeigt werden.");
       return;
     }

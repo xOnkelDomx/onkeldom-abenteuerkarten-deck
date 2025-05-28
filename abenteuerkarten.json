@@ -2,7 +2,7 @@
   "name": "Abenteuerkarten",
   "type": "deck",
   "description": "",
-  "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+  "img": "modules/dsa5-abenteuer-deck/assets/logo.png",
   "system": {},
   "cards": [
     {
