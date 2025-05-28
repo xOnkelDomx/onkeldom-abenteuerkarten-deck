@@ -1,8 +1,8 @@
-# DSA5 Abenteuerkarten Deck
+# OnkelDoms's Abenteuerkarten Deck
 
 ![Cover](./assets/cover.png)
 
-**Ein FoundryVTT-Modul zur Nutzung von Abenteuerkarten im Stil von Savage Worlds, vollständig für Das Schwarze Auge 5 (DSA5) umgesetzt.**  
+**Ein FoundryVTT-Modul zur Nutzung von Abenteuerkarten im Stil von Savage Worlds, vollständig für DSA5 umgesetzt, jedoch für jedes beliebige System anpassbar**  
 Die Karten verleihen Spielern narrative Macht und ermöglichen unerwartete Wendungen und kreative Spielimpulse.
 
 ---
@@ -26,7 +26,7 @@ Die Karten verleihen Spielern narrative Macht und ermöglichen unerwartete Wendu
 ### 🧭 Manifest URL
 
 ```text
-https://raw.githubusercontent.com/OnkelDom/dsa5-abenteuer-deck/main/module.json
+https://raw.githubusercontent.com/OnkelDom/onkeldom-abenteuerkarten-deck/main/module.json
 ```
 
 1. Öffne in FoundryVTT den **Modul-Manager**
@@ -66,14 +66,13 @@ https://raw.githubusercontent.com/OnkelDom/dsa5-abenteuer-deck/main/module.json
 ## ⚙️ Abhängigkeiten
 
 - **FoundryVTT** ab Version `12.x`
-- **DSA5 System** (`dsa5`)
 
 ---
 
 ## 📁 Modulstruktur
 
 ```
-dsa5-abenteuer-deck/
+onkeldom-abenteuerkarten-deck/
 ├── module.json
 ├── index.js
 ├── style.css
@@ -86,6 +85,7 @@ dsa5-abenteuer-deck/
     ├── logo.png
     ├── cover.png
     └── cards/
+
 ```
 
 ---
@@ -94,7 +94,7 @@ dsa5-abenteuer-deck/
 
 **Onkel Dom**  
 📧 kontakt: Discord  @OnkelDom
-🌐 [GitHub – OnkelDom](https://github.com/OnkelDom)
+🌐 Webseite( https://datengnom.de/ )
 
 ---
 
