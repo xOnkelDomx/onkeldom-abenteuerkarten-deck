@@ -1,11 +1,13 @@
 {
   "id": "dsa5-abenteuer-deck",
-  "title": "DSA 5 Abenteuerkarten Deck",
+  "title": "DSA5 Abenteuerkarten Deck",
   "description": "<p><strong>Das Abenteuerkarten-Deck</strong> verleiht den Spielern erzählerische Kontrolle und bringt zusätzliche Spannung ins Spiel. Wendungen wie überraschende Begegnungen, alte Feinde oder dramatische Erfolge sorgen für ein lebendiges Spielerlebnis im DSA5-Universum.</p>",
   "version": "1.0.0",
   "authors": [
     {
-      "name": "Datengnom - @OnkelDom"
+      "name": "Datengnom - OnkelDom",
+      "email": " ",
+      "url": "https://datengnom.de"
     }
   ],
   "compatibility": {
@@ -34,5 +36,8 @@
   ],
   "styles": [
     "./style.css"
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/OnkelDom/dsa5-abenteuer-deck/main/module.json",
+  "download": "https://github.com/OnkelDom/dsa5-abenteuer-deck/releases/download/v1.0.0/module.zip",
+  "url": "https://github.com/OnkelDom/dsa5-abenteuer-deck"
 }
