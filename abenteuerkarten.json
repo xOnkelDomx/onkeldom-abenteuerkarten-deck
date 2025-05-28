@@ -2,14 +2,13 @@
   "name": "Abenteuerkarten",
   "type": "deck",
   "description": "",
-  "img": "modules/dsa5-abenteuer-deck/assets/logo.png",
-  "system": {},
+  "img": "modules/onkeldom-abenteuerkarten-deck/assets/logo.png",
   "cards": [
     {
       "faces": [
         {
           "name": "Gekonnt",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_01.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_01.webp",
           "text": ""
         }
       ],
@@ -18,11 +17,10 @@
       "_id": "TI1KtxmuKtlUX0vg",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -31,13 +29,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748331441725,
         "modifiedTime": 1748331609439,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -48,7 +43,7 @@
       "faces": [
         {
           "name": "Adrenalin",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_02.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_02.webp",
           "text": ""
         }
       ],
@@ -57,11 +52,10 @@
       "_id": "bO4KjM2lYLkK3qa6",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -70,13 +64,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748331660563,
         "modifiedTime": 1748331689126,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -87,7 +78,7 @@
       "faces": [
         {
           "name": "Hesinde's Inspiration",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_03.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_03.webp",
           "text": ""
         }
       ],
@@ -96,11 +87,10 @@
       "_id": "Iwmzv63mbsC3H8LC",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -109,13 +99,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748331732516,
         "modifiedTime": 1748331815971,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -126,7 +113,7 @@
       "faces": [
         {
           "name": "Lieber Du als Ich!",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_04.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_04.webp",
           "text": ""
         }
       ],
@@ -135,11 +122,10 @@
       "_id": "iZ7qWxwYcKrbeeTp",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -148,13 +134,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748331776418,
         "modifiedTime": 1748331807248,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -165,7 +148,7 @@
       "faces": [
         {
           "name": "Blattschuss",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_05.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_05.webp",
           "text": ""
         }
       ],
@@ -174,11 +157,10 @@
       "_id": "ZJwGTd9yq8hnFisa",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -187,13 +169,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748331832914,
         "modifiedTime": 1748331875423,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -204,7 +183,7 @@
       "faces": [
         {
           "name": "Kontakte",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_06.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_06.webp",
           "text": ""
         }
       ],
@@ -213,11 +192,10 @@
       "_id": "oimhDlbpuGqvtXBy",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -226,13 +204,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748331979001,
         "modifiedTime": 1748332002564,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -243,7 +218,7 @@
       "faces": [
         {
           "name": "Tödlicher Schlag",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_07.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_07.webp",
           "text": ""
         }
       ],
@@ -252,11 +227,10 @@
       "_id": "AXur5Z6brg0sfCss",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -265,13 +239,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332027685,
         "modifiedTime": 1748332050698,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -282,7 +253,7 @@
       "faces": [
         {
           "name": "Aufgetakelt",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_08.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_08.webp",
           "text": ""
         }
       ],
@@ -291,11 +262,10 @@
       "_id": "99GDVNtGQxhq0p9h",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -304,13 +274,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332064950,
         "modifiedTime": 1748332084590,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -321,7 +288,7 @@
       "faces": [
         {
           "name": "Feind!",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_09.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_09.webp",
           "text": ""
         }
       ],
@@ -330,11 +297,10 @@
       "_id": "Hkl4rvzv3b46lpSu",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -343,13 +309,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332096405,
         "modifiedTime": 1748332118293,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -360,7 +323,7 @@
       "faces": [
         {
           "name": "Offenbarung",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_10.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_10.webp",
           "text": ""
         }
       ],
@@ -369,11 +332,10 @@
       "_id": "rK6PvoyCT0BQZ9tV",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -382,13 +344,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332133002,
         "modifiedTime": 1748332156844,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -399,7 +358,7 @@
       "faces": [
         {
           "name": "Besonderer Einsatz",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_11.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_11.webp",
           "text": ""
         }
       ],
@@ -408,11 +367,10 @@
       "_id": "CcdZNIJcW8n1wMgc",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -421,13 +379,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332170155,
         "modifiedTime": 1748332188820,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -438,7 +393,7 @@
       "faces": [
         {
           "name": "Nur eine Fleischwunde",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_12.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_12.webp",
           "text": ""
         }
       ],
@@ -447,11 +402,10 @@
       "_id": "ibCEqizPD3md4DYN",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -460,13 +414,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332205818,
         "modifiedTime": 1748332224516,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -477,7 +428,7 @@
       "faces": [
         {
           "name": "Volksheld",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_13.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_13.webp",
           "text": ""
         }
       ],
@@ -486,11 +437,10 @@
       "_id": "FTZjUWI4W9OEPanY",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -499,13 +449,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332240032,
         "modifiedTime": 1748332261563,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -516,7 +463,7 @@
       "faces": [
         {
           "name": "Ein Hinweis!",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_14.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_14.webp",
           "text": ""
         }
       ],
@@ -525,11 +472,10 @@
       "_id": "ISGkHbuEtspuUmtq",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -538,13 +484,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332279608,
         "modifiedTime": 1748332298052,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -555,7 +498,7 @@
       "faces": [
         {
           "name": "Hier kommt die Kavallerie!",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_15.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_15.webp",
           "text": ""
         }
       ],
@@ -564,11 +507,10 @@
       "_id": "nQiKdu3R19nQyqwF",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -577,13 +519,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332317227,
         "modifiedTime": 1748332342657,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -594,7 +533,7 @@
       "faces": [
         {
           "name": "Versteckter Vorrat",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_16.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_16.webp",
           "text": ""
         }
       ],
@@ -603,11 +542,10 @@
       "_id": "UUXN86aV2Gouswfp",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -616,13 +554,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332390610,
         "modifiedTime": 1748332416498,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -633,7 +568,7 @@
       "faces": [
         {
           "name": "Angespornt",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_17.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_17.webp",
           "text": ""
         }
       ],
@@ -642,11 +577,10 @@
       "_id": "QyJU8NDyAH6iZLKl",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -655,13 +589,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332431800,
         "modifiedTime": 1748332451312,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -672,7 +603,7 @@
       "faces": [
         {
           "name": "Unbeugsam!",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_18.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_18.webp",
           "text": ""
         }
       ],
@@ -681,11 +612,10 @@
       "_id": "QrOueacHgPYAbeyY",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -694,13 +624,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332471308,
         "modifiedTime": 1748332489763,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -711,7 +638,7 @@
       "faces": [
         {
           "name": "Jetzt wird abgerechnet!",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_19.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_19.webp",
           "text": ""
         }
       ],
@@ -720,11 +647,10 @@
       "_id": "dSqRaNd5qobeypNw",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -733,13 +659,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332506779,
         "modifiedTime": 1748332531232,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -750,7 +673,7 @@
       "faces": [
         {
           "name": "Zuneigung",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_20.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_20.webp",
           "text": ""
         }
       ],
@@ -759,11 +682,10 @@
       "_id": "5bXuxp3vsPCN26vV",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -772,13 +694,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332546179,
         "modifiedTime": 1748332570701,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -789,7 +708,7 @@
       "faces": [
         {
           "name": "Glück gehabt!",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_21.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_21.webp",
           "text": ""
         }
       ],
@@ -798,11 +717,10 @@
       "_id": "7OLha41lt72hBAWD",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -811,13 +729,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332606970,
         "modifiedTime": 1748332627530,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -828,7 +743,7 @@
       "faces": [
         {
           "name": "Versagen",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_22.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_22.webp",
           "text": ""
         }
       ],
@@ -837,11 +752,10 @@
       "_id": "EsbGBdZXdNL2Ru9R",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -850,13 +764,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332643773,
         "modifiedTime": 1748332661266,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -867,7 +778,7 @@
       "faces": [
         {
           "name": "Nobles Opfer",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_23.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_23.webp",
           "text": ""
         }
       ],
@@ -876,11 +787,10 @@
       "_id": "8FNDyhdKCvjqrZP2",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -889,13 +799,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332675353,
         "modifiedTime": 1748332695927,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -906,7 +813,7 @@
       "faces": [
         {
           "name": "Heute nicht!",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_24.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_24.webp",
           "text": ""
         }
       ],
@@ -915,11 +822,10 @@
       "_id": "nZwkMn8oPmWDz15I",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -928,13 +834,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332732278,
         "modifiedTime": 1748332755823,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -945,7 +848,7 @@
       "faces": [
         {
           "name": "Vergeltung",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_25.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_25.webp",
           "text": ""
         }
       ],
@@ -954,11 +857,10 @@
       "_id": "R9SIDRTrstn3qCR8",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -967,13 +869,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332776703,
         "modifiedTime": 1748332801230,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -984,7 +883,7 @@
       "faces": [
         {
           "name": "Freundlich",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_26.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_26.webp",
           "text": ""
         }
       ],
@@ -993,11 +892,10 @@
       "_id": "4b7MHp7PvXIDXIfL",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1006,13 +904,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332808361,
         "modifiedTime": 1748332833763,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1023,7 +918,7 @@
       "faces": [
         {
           "name": "Energieschub",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_27.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_27.webp",
           "text": ""
         }
       ],
@@ -1032,11 +927,10 @@
       "_id": "7bR4Ir1xV3uo9MZl",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1045,13 +939,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332854100,
         "modifiedTime": 1748332871298,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1062,7 +953,7 @@
       "faces": [
         {
           "name": "Sammeln!",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_28.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_28.webp",
           "text": ""
         }
       ],
@@ -1071,11 +962,10 @@
       "_id": "O8z5DszBKQz8z1H1",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1084,13 +974,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332882578,
         "modifiedTime": 1748332905278,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1101,7 +988,7 @@
       "faces": [
         {
           "name": "Verstärkung",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_29.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_29.webp",
           "text": ""
         }
       ],
@@ -1110,11 +997,10 @@
       "_id": "Vex7NiF5iYub7Tml",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1123,13 +1009,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332917958,
         "modifiedTime": 1748332935522,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1140,7 +1023,7 @@
       "faces": [
         {
           "name": "Ruhm",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_30.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_30.webp",
           "text": ""
         }
       ],
@@ -1149,11 +1032,10 @@
       "_id": "OmZHaSR8OJgJmwGb",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1162,13 +1044,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332946316,
         "modifiedTime": 1748332965208,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1179,7 +1058,7 @@
       "faces": [
         {
           "name": "Visionen",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_31.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_31.webp",
           "text": ""
         }
       ],
@@ -1188,11 +1067,10 @@
       "_id": "ZHIKCRgVvRlT0WPy",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1201,13 +1079,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748332979643,
         "modifiedTime": 1748332996943,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1218,7 +1093,7 @@
       "faces": [
         {
           "name": "Hitzköpfig",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_32.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_32.webp",
           "text": ""
         }
       ],
@@ -1227,11 +1102,10 @@
       "_id": "VvywjgfYCp7jf4hz",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1240,13 +1114,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333023977,
         "modifiedTime": 1748333047935,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1257,7 +1128,7 @@
       "faces": [
         {
           "name": "Luft holen",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_33.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_33.webp",
           "text": ""
         }
       ],
@@ -1266,11 +1137,10 @@
       "_id": "iXgEOBQ7HpsZg8Aw",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1279,13 +1149,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333085406,
         "modifiedTime": 1748333113223,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1296,7 +1163,7 @@
       "faces": [
         {
           "name": "Jetzt oder nie!",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_34.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_34.webp",
           "text": ""
         }
       ],
@@ -1305,11 +1172,10 @@
       "_id": "FHaK7iwYMr6QdvcB",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1318,13 +1184,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333129402,
         "modifiedTime": 1748333153638,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1335,7 +1198,7 @@
       "faces": [
         {
           "name": "Plappermaul",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_35.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_35.webp",
           "text": ""
         }
       ],
@@ -1344,11 +1207,10 @@
       "_id": "6FSOuPwlQ7YgPNWP",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1357,13 +1219,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333180290,
         "modifiedTime": 1748333204907,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1374,7 +1233,7 @@
       "faces": [
         {
           "name": "Mit vereinten Kräften",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_36.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_36.webp",
           "text": ""
         }
       ],
@@ -1383,11 +1242,10 @@
       "_id": "x2hh5Kig5NufRDDn",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1396,13 +1254,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333222533,
         "modifiedTime": 1748333245257,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1413,7 +1268,7 @@
       "faces": [
         {
           "name": "Überläufer",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_37.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_37.webp",
           "text": ""
         }
       ],
@@ -1422,11 +1277,10 @@
       "_id": "zmyh1iDKXLs3T3Jw",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1435,13 +1289,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333258045,
         "modifiedTime": 1748333289351,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1452,7 +1303,7 @@
       "faces": [
         {
           "name": "Oh - ooh!",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_38.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_38.webp",
           "text": ""
         }
       ],
@@ -1461,11 +1312,10 @@
       "_id": "1EpLm1DC8frUb7kG",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1474,13 +1324,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333307282,
         "modifiedTime": 1748333331916,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1491,7 +1338,7 @@
       "faces": [
         {
           "name": "Monolog des Wahnsinns",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_39.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_39.webp",
           "text": ""
         }
       ],
@@ -1500,11 +1347,10 @@
       "_id": "XFhi6BHfawidnokw",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1513,13 +1359,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333353148,
         "modifiedTime": 1748333970922,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1530,7 +1373,7 @@
       "faces": [
         {
           "name": "Verzweifelte Zeiten",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_40.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_40.webp",
           "text": ""
         }
       ],
@@ -1539,11 +1382,10 @@
       "_id": "YtYMIs0pVSCAaEOX",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1552,13 +1394,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333389584,
         "modifiedTime": 1748333408918,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1569,7 +1408,7 @@
       "faces": [
         {
           "name": "Glühendes Eisen und Schnaps",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_41.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_41.webp",
           "text": ""
         }
       ],
@@ -1578,11 +1417,10 @@
       "_id": "kxdM9pxOnGotLtAa",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1591,13 +1429,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333425721,
         "modifiedTime": 1748333442834,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1608,7 +1443,7 @@
       "faces": [
         {
           "name": "Erschütternder Auftritt",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_42.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_42.webp",
           "text": ""
         }
       ],
@@ -1617,11 +1452,10 @@
       "_id": "2zciIFdM94mfqkm8",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1630,13 +1464,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333463455,
         "modifiedTime": 1748333481184,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1647,7 +1478,7 @@
       "faces": [
         {
           "name": "Segen des Erwählten",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_43.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_43.webp",
           "text": ""
         }
       ],
@@ -1656,11 +1487,10 @@
       "_id": "f3T1LP1zHPIvW0Kl",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1669,13 +1499,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333499391,
         "modifiedTime": 1748333521727,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1686,7 +1513,7 @@
       "faces": [
         {
           "name": "Wütender Mob",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_44.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_44.webp",
           "text": ""
         }
       ],
@@ -1695,11 +1522,10 @@
       "_id": "evtSxyUnwXF2Nl6E",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1708,13 +1534,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333535357,
         "modifiedTime": 1748333554391,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1725,7 +1548,7 @@
       "faces": [
         {
           "name": "Schützende Kräfte",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_45.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_45.webp",
           "text": ""
         }
       ],
@@ -1734,11 +1557,10 @@
       "_id": "y984anJvvWWaEI7V",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1747,13 +1569,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333580108,
         "modifiedTime": 1748333601970,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1764,7 +1583,7 @@
       "faces": [
         {
           "name": "Äh, moment mal...",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_46.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_46.webp",
           "text": ""
         }
       ],
@@ -1773,11 +1592,10 @@
       "_id": "SxI3PFOMXTjOYP98",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1786,13 +1604,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333619602,
         "modifiedTime": 1748333639556,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1803,7 +1618,7 @@
       "faces": [
         {
           "name": "Vom Regen in die Traufe...",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_47.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_47.webp",
           "text": ""
         }
       ],
@@ -1812,11 +1627,10 @@
       "_id": "exbA2W29kPzsjOpL",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1825,13 +1639,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333663965,
         "modifiedTime": 1748333681734,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1842,7 +1653,7 @@
       "faces": [
         {
           "name": "Perfektes Timing",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_48.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_48.webp",
           "text": ""
         }
       ],
@@ -1851,11 +1662,10 @@
       "_id": "uaD8GDSlnAWb3Fy8",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1864,13 +1674,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333699401,
         "modifiedTime": 1748333725444,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1881,7 +1688,7 @@
       "faces": [
         {
           "name": "Verraten!",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_49.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_49.webp",
           "text": ""
         }
       ],
@@ -1890,11 +1697,10 @@
       "_id": "0vlT2M2v0SIBrvdG",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1903,13 +1709,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333740879,
         "modifiedTime": 1748333761347,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1920,7 +1723,7 @@
       "faces": [
         {
           "name": "Dunkler Pakt",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_50.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_50.webp",
           "text": ""
         }
       ],
@@ -1929,11 +1732,10 @@
       "_id": "K11BvnaHjqmXMoNT",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1942,13 +1744,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333774078,
         "modifiedTime": 1748333796106,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1959,7 +1758,7 @@
       "faces": [
         {
           "name": "Unerwartete Eingebung",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_51.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_51.webp",
           "text": ""
         }
       ],
@@ -1968,11 +1767,10 @@
       "_id": "HyTB39teK9HeY4BZ",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -1981,13 +1779,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333820975,
         "modifiedTime": 1748333835299,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -1998,7 +1793,7 @@
       "faces": [
         {
           "name": "Jetzt geht's Rund!",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_52.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_52.webp",
           "text": ""
         }
       ],
@@ -2007,11 +1802,10 @@
       "_id": "x4eYib8hHiIPjMQQ",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -2020,13 +1814,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333860297,
         "modifiedTime": 1748333880621,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -2037,7 +1828,7 @@
       "faces": [
         {
           "name": "Ich hasse diese Typen!",
-          "img": "modules/dsa5-abenteuer-deck/assets/cards/Abenteuerkarte_53.webp",
+          "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Abenteuerkarte_53.webp",
           "text": ""
         }
       ],
@@ -2046,11 +1837,10 @@
       "_id": "04cWOdOK8Lh73klv",
       "description": "",
       "type": "base",
-      "system": {},
       "value": null,
       "back": {
         "text": "",
-        "img": "modules/dsa5-abenteuer-deck/assets/cards/Rueckseite.png",
+        "img": "modules/onkeldom-abenteuerkarten-deck/assets/cards/Rueckseite.png",
         "name": ""
       },
       "drawn": false,
@@ -2059,13 +1849,10 @@
       "height": null,
       "rotation": 0,
       "sort": 0,
-      "flags": {},
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.343",
-        "systemId": "dsa5",
-        "systemVersion": "6.2.2",
         "createdTime": 1748333900205,
         "modifiedTime": 1748333915108,
         "lastModifiedBy": "DDruoOWeLWcvecIL"
@@ -2077,19 +1864,8 @@
   "height": null,
   "rotation": 0,
   "displayCount": false,
-  "folder": null,
-  "flags": {
-    "exportSource": {
-      "world": "dsa5",
-      "system": "dsa5",
-      "coreVersion": "12.343",
-      "systemVersion": "6.2.2"
-    }
-  },
   "_stats": {
     "coreVersion": "12.343",
-    "systemId": "dsa5",
-    "systemVersion": "6.2.2",
     "createdTime": 1748331347555,
     "modifiedTime": 1748331566937,
     "lastModifiedBy": "DDruoOWeLWcvecIL"
