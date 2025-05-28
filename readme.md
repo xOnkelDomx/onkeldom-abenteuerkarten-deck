@@ -26,7 +26,7 @@ Die Karten verleihen Spielern narrative Macht und ermöglichen unerwartete Wendu
 ### 🧭 Manifest URL
 
 ```text
-https://raw.githubusercontent.com/OnkelDom/onkeldom-abenteuerkarten-deck/main/module.json
+https://raw.githubusercontent.com/xOnkelDomx/onkeldom-abenteuerkarten-deck/main/module.json
 ```
 
 1. Öffne in FoundryVTT den **Modul-Manager**
