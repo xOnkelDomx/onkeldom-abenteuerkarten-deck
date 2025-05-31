@@ -11,11 +11,11 @@ Die Karten verleihen Spielern narrative Macht und ermöglichen unerwartete Wendu
 
 - Automatisches Abenteuerkartendeck beim ersten Start
 - Automatische Erstellung von Kartenhänden pro Spielercharakter (nur bei GM-Start)
-- Kartenhand mit schönem Layout im Stil des Originaldecks
+- Kartenhand mit hübschem Layout
 - Karten können:
   - im Chat ausgespielt werden
   - an andere Spieler weitergegeben werden
-  - per Rechtsklick als großes Bild angezeigt werden
+  - per Klick als großes Bild angezeigt werden
 - Nur Spielleiter kann Karten austeilen
 - Ablagestapel sichtbar, aber nicht nutzbar durch Spieler
 
