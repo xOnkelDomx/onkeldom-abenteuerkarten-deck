@@ -2,22 +2,25 @@
 
 ![Cover](./assets/cover.png)
 
-**Ein FoundryVTT-Modul zur Nutzung von Abenteuerkarten im Stil von Savage Worlds, vollständig für DSA5 umgesetzt, jedoch für jedes beliebige System anpassbar**  
+Ein FoundryVTT-Modul zur Nutzung von Abenteuerkarten im Stil von Savage Worlds, vollständig für DSA5 umgesetzt (jedoch für jedes beliebige System anpassbar mit etwas Arbeit).
 Die Karten verleihen Spielern narrative Macht und ermöglichen unerwartete Wendungen und kreative Spielimpulse.
+Das Modul liefert 53 Abenteuerkarten , jeweils mit Name, Kartentext zur Umsetzung im Spiel und Bebilderung.
+Ein Template File ist im Modul enthalten , mit dem man eigene Karteneffekte und Karten per GIMP erstellen kann (sie müssen dann nur an korrekter Stelle im Modul eingepflegt werden, was ein wenig Arbeit mit dem enthaltenen .json File erfordert)
+Das Kartensystem ist eine Nachempfindung vom Savage Worlds Adventure Deck und wird in unserer Runde entsprechend benutzt (ihr könnt es aber nutzen wie ihr es für rchtig haltet :)  )
+Die Karteneffekte sind auf DSA 5 angepasst und stellen nur meine Interpretaton und Auslegung dar, ihr könnt sie verändern wie ihr möchtet = )
 
 ---
 
 ## 🧩 Features
 
-- Automatisches Abenteuerkartendeck beim ersten Start
-- Automatische Erstellung von Kartenhänden pro Spielercharakter (nur bei GM-Start)
-- Kartenhand mit schönem Layout im Stil des Originaldecks
-- Karten können:
-  - im Chat ausgespielt werden
-  - an andere Spieler weitergegeben werden
-  - per Rechtsklick als großes Bild angezeigt werden
-- Nur Spielleiter kann Karten austeilen
-- Ablagestapel sichtbar, aber nicht nutzbar durch Spieler
+ - Automatisches Erstellen des Abenteuerkartendeck beim Foundry Start
+ - Automatische Erstellung von Kartenhänden pro existierendem Spielercharakter 
+ - Kartenhand mit hübschem Layout
+ - Karten können:
+		- im Chat ausgespielt werden
+		- an andere Spieler weitergegeben werden
+		- per Klick als großes Bild angezeigt werden
+ - Zugriffsrechte für das Deck, den Ablagestapel und die Kartenhände werden automatisch vergeben (können vom GM verändert werden)
 
 ---
 
@@ -38,29 +41,30 @@ https://raw.githubusercontent.com/xOnkelDomx/onkeldom-abenteuerkarten-deck/main/
 ## 💡 Verwendung
 
 ### Als Spielleiter:
-- Stelle sicher, dass das Deck automatisch erstellt wurde (`Abenteuerkarten`)
-- Verwende das Kontextmenü oder Buttons zum Weitergeben oder Ausspielen der Karten
-- Karten werden nach dem Ausspielen automatisch in den Ablagestapel gelegt
+ - Stelle sicher, dass das Deck automatisch erstellt wurde (Abenteuerkarten)
+ - Verwende das Kontextmenü des Decks um Karten an Spieler auszuteilen, das Deck zu mischen oder zurückzusetzen
+ - Karten werden nach dem Ausspielen automatisch in den Ablagestapel gelegt
 
 ### Als Spieler:
-- Deine Kartenhand wird automatisch erstellt
-- Öffne deine Kartenhand über das Charaktermenü oder GM-Ansicht
-- Klicke auf Karten, um Details zu sehen oder sie zu verwenden
+ - Deine Kartenhand wird automatisch erstellt
+ - Öffne deine Kartenhand über den entsprechenden Reiter in Foundry
+ - Klicke auf Karten, um Details zu sehen oder sie zu verwenden
+ - Verwende die Buttons um Karten auszuspielen oder an andere Spieler weiterzugeben.
 
 ---
 
 ## 🎨 Eigene Karten erstellen
 
-- Im Ordner `assets/cards` befinden sich **alle Kartenvorlagen**, inkl. Rückseite.
-- Du kannst das Template `Abenteuerkarten_Template.xcf` im Ordner `assets` verwenden, um eigene Karten zu erstellen.
-- Nutze dazu Grafikprogramme wie **GIMP**, **Photoshop** oder **Photopea**.
-- Neue Karten müssen anschließend in der Datei `abenteuerkarten.json` eingetragen werden:
+ - Im Ordner assets/cards befinden sich alle Karten, inkl. Rückseite.
+ - Du kannst das Template  Abenteuerkarten_Template.xcf   in  assets  verwenden um eigene Karten zu erstellen.
+ - Nutze dazu Grafikprogrammen wie GIMP,  oder Photoshop.
+ - Neue Karten müssen anschließend in der Datei abenteuerkarten.json eingetragen und im cards Ordner einsortiert werden.
   - `name` – Name der Karte
   - `img` – Pfad zum Kartenvorderbild
   - `back.img` – Pfad zur Rückseite
   - Optional: `text` und `description` für Effekte oder Chatanzeige
 
-⚠️ **Hinweis:** Beim Hinzufügen eigener Karten musst du sicherstellen, dass die JSON-Struktur korrekt bleibt und die Dateiendungen alle korrekt sind!
+⚠️  Hinweis: Beim Hinzufügen eigener Karten musst du sicherstellen, dass die JSON-Struktur korrekt bleibt und die Dateiendungen und Namen alle korrekt sind!
 
 
 ---
